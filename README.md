@@ -1,8 +1,7 @@
 # addslastlogonreport
 Last logon is an Active Directory report for last logon greater than or equal to 100 days.
 Report requires RSAT too be installed on the local workstation or run from a domain controller.
-Created in 2017 for use with ADDSReports application by Brad Voris
-
+Created in 2017 for use with ADDSReports application by Brad Voris<BR />
 <img alt="GitHub" src="https://img.shields.io/github/license/bvoris/addslastlogonreport">
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/bvoris/addslastlogonreport">
 <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/bvoris/addslastlogonreport/total">
